@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">flamenco_mi_primer_app</string>
+    <string name="enviar_mensaje">ENVIAR MENSAJE</string>
+    <string name="digite_el_texto_del_mensaje">digite el texto del mensaje</string>
+    <string name="flamenco">FLAMENCO</string>
+    <string name="programacios_de_dispositivos_moviles">PROGRAMACIOS DE DISPOSITIVOS MOVILES</string>
+    <string name="logo_de_la_ufg">Logo de la UFG</string>
+</resources>
